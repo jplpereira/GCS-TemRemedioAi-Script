@@ -5,7 +5,7 @@ YELLOW='\033[1;33m'
 NOCOLOR='\033[0m'
 #Consultando a versão do sistema
 VERSION=`uname -m`
-#Definindo a versão alvo
+#Definindo a versão desejada 
 TARGET_VERSION="x86_64"
 #Definindo o caminho da pasta de projetos do Android Studio
 PROJECTS_FOLDER="/home/$USER/AndroidStudioProjects"
